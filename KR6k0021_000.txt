@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 薩婆多毘尼毘婆沙
+#+DATE: 2015-08-30 20:41:01.912474
+#+PROPERTY: JUAN 0
